@@ -5,7 +5,14 @@ Modular Selenium Automation Framework using Python, Pytest, and Page Object Mode
 
 This is a modular Selenium test automation framework built using **Python**, **Pytest**, and **Page Object Model (POM)** design. It is designed to demonstrate real-world test structure for web application testing, including reusable components, reporting, and maintainability.
 
-## 🔧 Technologies Used
+## Project Goals
+
+- Automate web application testing using Python and Selenium
+- Follow industry-standard framework structure (POM)
+- Generate detailed reports and capture test results
+- Easily extendable for real-time applications and interviews
+
+## 🔧Technologies Used
 - Python
 - Selenium WebDriver
 - Pytest (Test runner)
